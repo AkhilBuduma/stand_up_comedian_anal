@@ -1,5 +1,5 @@
 
-INSERT INTO indian_standup_comedians_table(channel_name, video_id, video_type, video_title, view_count, like_count, dislike_count, favoriteCount, commentCount, publishedAt) 
+INSERT INTO indian_standup_comedians(channel_name, video_id, video_type, video_title, view_count, like_count, dislike_count, favoriteCount, commentCount, publishedAt) 
 VALUES
 ('Aakash Gupta', 'rVaiKp6VDCQ', 'youtube#video', 'Which Paan? | Aakash Gupta | #shorts #comedyshorts', 392658, 56185, 0, 0, 189, '2022-03-01T04:47:41Z')
 ,('Aakash Gupta', 'FZ77MTzLdE0', 'youtube#video', 'Delhi Boys I Aakash Gupta | #Shorts', 454505, 56850, 0, 0, 143, '2022-02-24T09:16:38Z')
