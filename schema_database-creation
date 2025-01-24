@@ -1,0 +1,18 @@
+create database stand_up
+
+use stand_up
+
+create table stand_up_comedians(
+channel_name varchar(200), 
+ video_id varchar(100), 
+ video_type varchar(200), 
+ video_title VARCHAR(400), 
+ view_count INT,  
+ like_count INT, 
+ dislike_count INT, 
+ favoriteCount INT, 
+ commentCount INT, 
+ publishedAt varchar(100)
+
+
+)
